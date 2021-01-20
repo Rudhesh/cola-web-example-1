@@ -9,4 +9,4 @@ git|run git commands
 
 :smiley:
 
-![dog](file:///home/dci/images/dog.webp)
+![dog](file:///home/dci/images/dog.jpeg)
