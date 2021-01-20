@@ -1,10 +1,12 @@
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+|command |explanation
+|---|---|
+ls|list files in a given directory
+cp|copy a file
+mv|move a file
+sudo|"super user do" run commend as super user
+git|run git commands
 
 
 :smiley:
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![dog](file:///home/dci/images/dog.webp)
